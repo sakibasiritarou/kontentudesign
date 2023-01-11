@@ -1,0 +1,87 @@
+      var number_2 =new Sprite(100,153);
+
+        number_2.image = core.assets['img/number_2.png'];
+        number_2.frame =1;
+        number_2.x=200;
+        number_2.y =50;
+        number_2.scaleX=1;
+        number_2.scaleY =1;
+
+        core.rootScene.addChild(number_2);
+
+        var number_3 =new Sprite(100,160);
+
+        number_3.image = core.assets['img/number_3.png'];
+        number_3.frame =1;
+        number_3.x=350;
+        number_3.y =50;
+        number_3.scaleX=1;
+        number_3.scaleY =1;
+
+        core.rootScene.addChild(number_3);
+
+        var number_4 =new Sprite(100,160);
+
+        number_4.image = core.assets['img/number_4.png'];
+        number_4.frame =1;
+        number_4.x=500;
+        number_4.y =50;
+        number_4.scaleX=1;
+        number_4.scaleY =1;
+
+        core.rootScene.addChild(number_4);
+
+        var number_5 =new Sprite(100,160);
+
+        number_5.image = core.assets['img/number_5.png'];
+        number_5.frame =1;
+        number_5.x=650;
+        number_5.y =50;
+        number_5.scaleX=1;
+        number_5.scaleY =1;
+
+        core.rootScene.addChild(number_5);
+
+        var number_6 =new Sprite(100,155);
+
+        number_6.image = core.assets['img/number_6.png'];
+        number_6.frame =1;
+        number_6.x=50;
+        number_6.y =300;
+        number_6.scaleX=1;
+        number_6.scaleY =1;
+
+        core.rootScene.addChild(number_6);
+
+        var number_7 =new Sprite(100,155);
+
+        number_7.image = core.assets['img/number_7.png'];
+        number_7.frame =1;
+        number_7.x=200;
+        number_7.y =300;
+        number_7.scaleX=1;
+        number_7.scaleY =1;
+
+        core.rootScene.addChild(number_7);
+
+        var number_8 =new Sprite(100,155);
+
+        number_8.image = core.assets['img/number_8.png'];
+        number_8.frame =1;
+        number_8.x=350;
+        number_8.y =300;
+        number_8.scaleX=1;
+        number_8.scaleY =1;
+
+        core.rootScene.addChild(number_8);
+
+        var number_9 =new Sprite(100,155);
+
+        number_9.image = core.assets['img/number_9.png'];
+        number_9.frame =1;
+        number_9.x=500;
+        number_9.y =300;
+        number_9.scaleX=1;
+        number_9.scaleY =1;
+
+        core.rootScene.addChild(number_9);
